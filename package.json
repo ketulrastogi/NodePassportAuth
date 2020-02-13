@@ -1,5 +1,5 @@
 {
-  "name": "NodePassportAuth",
+  "name": "node-rest-auth",
   "version": "0.0.0",
   "private": true,
   "scripts": {
